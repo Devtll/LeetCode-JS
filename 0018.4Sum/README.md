@@ -1,4 +1,4 @@
-# [18. 4Sum](https://leetcode.com/problems/4sum/)
+# [18. 4Sum](https://leetcode-cn.com/problems/4sum/submissions/)
 
 ## 题目
 
