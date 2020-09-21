@@ -13,10 +13,10 @@ var merge = function (nums1, m, nums2, n) {
   // nums2 最右边index
   let i = n - 1
   while (i >= 0) {
-    if (nums1[l] < nums2[i]) {
-      nums1[r--] = nums2[i--]
-    } else {
+    if (l >= 0 && nums1[l] > nums2[i]) {
       nums1[r--] = nums1[l--]
+    } else {
+      nums1[r--] = nums2[i--]
     }
   }
 }

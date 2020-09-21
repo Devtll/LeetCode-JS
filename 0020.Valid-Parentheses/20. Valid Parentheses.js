@@ -16,5 +16,5 @@ var isValid = function (s) {
       if (p === "(" && c !== ")") return false
     }
   }
-  return arr.length === 0
+  return stack.length === 0
 }
