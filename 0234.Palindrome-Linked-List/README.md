@@ -22,7 +22,7 @@ Follow up:
 
 Could you do it in O(n) time and O(1) space?
 
-## 题目(中文)
+## 题目(回文链表)
 
 请判断一个链表是否为回文链表。
 

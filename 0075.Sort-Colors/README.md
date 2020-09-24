@@ -21,7 +21,7 @@ Follow up:
   First, iterate the array counting number of 0's, 1's, and 2's, then overwrite array with total number of 0's, then 1's and followed by 2's.
 - Could you come up with a one-pass algorithm using only constant space?
 
-## 题目(中文)
+## 题目(颜色分类)
 
 给定一个包含红色、白色和蓝色，一共 n 个元素的数组，原地对它们进行排序，使得相同颜色的元素相邻，并按照红色、白色、蓝色顺序排列。
 
